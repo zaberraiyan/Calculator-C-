@@ -1,11 +1,8 @@
 /************************************
- * Zaber Raiyan Choudhury and Tayla Thompon
- * 
+ * Zaber Raiyan Choudhury
+ *
  * Project One, Data Structures COP 4530
  * 
- * Section: 2
- * 
- * Instructor: Zachary Beasely 
  * 
  * **********************************/
 
